@@ -37,7 +37,9 @@ Because a lot of people are not well vesed in the technical jargon. Plain langua
 It can improve comprehension as it is straightforward, whereas initiate could have different meaning. "Start" is a more commonly used and familiar term, whereas "initiate" may be confusing or unfamiliar to some users.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
-
+1. Visuals make it easier to understand complicated ideas by breaking them down into simpler parts. This helps viewers comprehend the central concept and understand how all the components align.
+2. Increases retention: People are more likely to remember information presented through visuals and examples than through text alone. By using these tools, you can improve the retention of complex concepts and ensure your audience understands and remembers the information.
+3. Makes the presentation more engaging: Complex concepts can be dry and difficult to follow, but incorporating visuals and examples can make the presentation more engaging and interesting. This can help keep your audience's attention and ensure they stay focused on the topic. 7. Allows for better clarification: In some cases, complex concepts may be confusing or ambiguous. By using visuals and examples, you can provide a clear and concrete explanation that leaves little room for misinterpretation. This can help avoid confusion and ensure everyone understands the concept in the same way.
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
